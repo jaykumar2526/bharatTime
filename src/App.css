@@ -1,0 +1,13 @@
+.hero{
+    height: 100vh;
+}
+.main-div{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+.Times{
+    color: rgb(239, 239, 239);
+    font-size: xx-large;
+    font-weight: 700;
+}
